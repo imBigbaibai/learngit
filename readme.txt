@@ -9,5 +9,4 @@
 Git is free software 
 \f1 \cf2 \cb3 \expnd0\expndtw0\kerning0
 \outl0\strokewidth0 \strokec2 distributed under the GPL\
-\
-}
+Git has a mutable index called stage.}
